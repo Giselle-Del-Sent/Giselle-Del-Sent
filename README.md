@@ -11,7 +11,7 @@
 - 🌱 Atualmente, estou desenvolvendo habilidades em análise exploratória de dados, visualização e SQL.
 - 🎓 Bacharela em Administração pela [UFRGS](https://www.ufrgs.br)
 - 🎓 Finalizando a graduação em Ciências Contábeis na [UFRGS](https://www.ufrgs.br)
-- 📚 Cursando pós-graduação em data analytics na [DSA](https://www.datascienceacademy.com.br)
+- 📚 Pós-graduanda em data analytics na [DSA](https://www.datascienceacademy.com.br)
 - 📚 MBA em Gestão Financeira pela [FGV](https://portal.fgv.br)
 
 ---
