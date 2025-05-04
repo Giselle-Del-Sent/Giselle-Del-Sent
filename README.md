@@ -18,12 +18,12 @@
 
 ## 🚀 Projetos
 
-### [Projeto 1: Análise de Dados com Python](projects/project1)
+### [Projeto 1: Análise da Receita Tributária Brasileira](projects/project1)
 ![Python](https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF69B4?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-Uma análise detalhada de um conjunto de dados usando Python e bibliotecas como Pandas e Matplotlib.
+Uma análise exploratória dos dados de receita tributária no Brasil, com foco na evolução da arrecadação ao longo dos anos, principais tributos e tendências por categoria econômica.
 
 ---
 
