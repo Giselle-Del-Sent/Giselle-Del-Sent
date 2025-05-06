@@ -1,17 +1,16 @@
-<h1 align="center">Bem-vindo ao Meu Repositório! 🌸</h1>
+<h1 align="center">Bem-vindo ao Meu Repositório! </h1>
 
 <p align="center">
-  Olá! Eu sou Giselle Victória Del Sent, uma especialista em gestão financeira apaixonada por análise de dados, dedicada a explorar e desenvolver habilidades nesta área fascinante!
+Olá! Sou Giselle Victória Del Sent, profissional com mais de 10 anos de experiência nas áreas financeira, controladoria e tributária. Tenho perfil analítico, com forte orientação à resolução de problemas, atenção a detalhes e foco em resultados. Acredito no papel fundamental da tecnologia e da análise de dados para melhorar processos, apoiar decisões estratégicas e impulsionar a eficiência nas organizações. Neste portfólio, compartilho projetos que combinam raciocínio lógico, conhecimento técnico e aplicação prática, utilizando Python e bibliotecas como pandas e matplotlib para transformar dados em informações úteis e aplicáveis no contexto empresarial.
 </p>
 
 ---
 ## 🚀 Sobre Mim
 
-- 👩‍💻 Profissional explorando o mundo da análise de dados.
 - 🌱 Atualmente, estou desenvolvendo habilidades em análise exploratória de dados, visualização e SQL.
 - 🎓 Bacharela em Administração pela [UFRGS](https://www.ufrgs.br)
 - 🎓 Finalizando a graduação em Ciências Contábeis na [UFRGS](https://www.ufrgs.br)
-- 📚 Pós-graduanda em data analytics na [DSA](https://www.datascienceacademy.com.br)
+- 📚 Pós-graduanda em Data Analytics na [DSA](https://www.datascienceacademy.com.br)
 - 📚 MBA em Gestão Financeira pela [FGV](https://portal.fgv.br)
 
 ---
@@ -23,7 +22,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF69B4?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-Uma análise exploratória dos dados de receita tributária no Brasil, com foco na evolução da arrecadação ao longo dos anos, principais tributos e tendências por categoria econômica.
+Este projeto apresenta uma análise exploratória da arrecadação tributária no Brasil no período de 2002 a 2021, com foco nos principais tributos federais, estaduais e municipais. Através da manipulação e visualização de dados públicos, foram investigadas tendências de arrecadação, impactos de eventos macroeconômicos — como crises fiscais e a pandemia da Covid-19 — e variações no desempenho de tributos como IRPJ, CSLL, PIS, COFINS, IOF, ICMS, ISS e impostos sobre o comércio exterior. O estudo destaca a concentração da arrecadação na esfera federal e propõe possíveis caminhos para expansão futura da análise, como a correção dos valores pela inflação, desagregação regional e integração com indicadores socioeconômicos.
 
 ---
 
