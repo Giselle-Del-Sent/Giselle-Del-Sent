@@ -35,6 +35,18 @@ Uma análise exploratória dos dados de receita tributária no Brasil, com foco 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-FF69B4?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FF69B4?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-FF69B4?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-FF69B4?style=for-the-badge&logo=looker&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-FF69B4?style=for-the-badge&logo=sas&logoColor=white)
+![Qlik](https://img.shields.io/badge/-Qlik-FF69B4?style=for-the-badge&logo=qlikview&logoColor=white)
+![R](https://img.shields.io/badge/-R-FF69B4?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FF69B4?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-FF69B4?style=for-the-badge&logo=cloudsmith&logoColor=white)
+
+---
 
 ## 📫 Contato
 
